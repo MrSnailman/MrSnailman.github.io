@@ -4,11 +4,10 @@ Section: Tweaks
 Maintainer: MrSnailman
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Filename: ./deb/com.snail.worldboxplus.deb
+Filename: ./debs/com.snail.worldboxplus.deb
 Description: Gives premium for worldbox, Click premium and cancel
 Name: Worldbox++
 Author: MrSnailman
-Depiction: https://mrsnailman.github.io/deb/?p=com.snail.worldboxplus
 
 Package: com.snail.volocoplus
 Version: 1.0.0
@@ -16,11 +15,10 @@ Section: Tweaks
 Maintainer: MrSnailman
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Filename: ./deb/com.snail.voloco.deb
+Filename: ./debs/com.snail.volocoplus.deb
 Description: Gives premium for Voloco
 Name: Voloco++
 Author: MrSnailman
-Depiction: https://mrsnailman.github.io/deb/?p=com.snail.voloco
 
 Package: com.snail.soulknightplus
 Version: 1.0.0
@@ -28,11 +26,10 @@ Section: Tweaks
 Maintainer: MrSnailman
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Filename: ./deb/com.snail.soulknightplus.deb
+Filename: ./debs/com.snail.soulknightplus.deb
 Description: Gives free in game purchases
 Name: Soul Knight++
 Author: MrSnailman
-Depiction: https://mrsnailman.github.io/deb/?p=com.snail.soulknightplus
 
 Package: com.snail.hctakedownplus
 Version: 1.0.0
@@ -40,11 +37,10 @@ Section: Tweaks
 Maintainer: MrSnailman
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Filename: ./deb/com.snail.hctakedownplus.deb
+Filename: ./debs/com.snail.hctakedownplus.deb
 Description: Gives free in game purchases
 Name: HC Takedown++
 Author: MrSnailman
-Depiction: https://mrsnailman.github.io/deb/?p=com.snail.hctakedownplus
 
 Package: com.snail.ecdsplus
 Version: 1.0.0
@@ -52,8 +48,7 @@ Section: Tweaks
 Maintainer: MrSnailman
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Filename: ./deb/com.snail.ecds.deb
+Filename: ./debs/com.snail.ecdsplus.deb
 Description: Gives free in game purchases
 Name: ECDS++
 Author: MrSnailman
-Depiction: https://mrsnailman.github.io/deb/?p=com.snail.ecdsplus
