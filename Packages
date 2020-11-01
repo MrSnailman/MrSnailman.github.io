@@ -32,7 +32,7 @@ Depends: mobilesubstrate
 Architecture: iphoneos-arm
 Filename: ./debs/com.snail.hctakedownplus.deb
 Size: 3638
-MD5sum: 74f572c20d35e5718a41a9652aed7e4d
+MD5sum: 7b283aabf20ff568a9d7c5a7fe9c00a0
 Description: Gives FREE in game purchases for HC Takedown
 Name: HC Takedown++
 Author: MrSnailman
