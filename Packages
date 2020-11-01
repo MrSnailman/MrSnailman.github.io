@@ -1,7 +1,7 @@
 Package: com.snail.worldboxplus
 Version: 1.0.0
 Section: Tweaks
-Maintainer: MrSnailman
+Maintainer: MrSnailman <SnailRepo@gmail.com>
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
 Filename: ./debs/com.snail.worldboxplus.deb
@@ -14,7 +14,7 @@ Author: MrSnailman
 Package: com.snail.soulknightplus
 Version: 1.0.0
 Section: Tweaks
-Maintainer: MrSnailman
+Maintainer: MrSnailman <SnailRepo@gmail.com>
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
 Filename: ./debs/com.snail.soulknightplus.deb
@@ -22,4 +22,17 @@ Size: 3586
 MD5sum: fa0e73fr2c7c6f82e2e39cba3b7984bc
 Description: Gives FREE in game purchases for Soul Knight
 Name: SoulKnight++
+Author: MrSnailman
+
+Package: com.snail.hctakedownplus
+Version: 1.0.0
+Section: Tweaks
+Maintainer: MrSnailman <SnailRepo@gmail.com>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.snail.hctakedownplus.deb
+Size: 3638
+MD5sum: 74f572c20d35e5718a41a9652aed7e4d
+Description: Gives FREE in game purchases for HC Takedown
+Name: HC Takedown++
 Author: MrSnailman
