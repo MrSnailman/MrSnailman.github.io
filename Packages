@@ -36,3 +36,29 @@ MD5sum: 74f572c20d35e5718a41a9652aed7e4d
 Description: Gives FREE in game purchases for HC Takedown
 Name: HC Takedown++
 Author: MrSnailman
+
+Package: com.snail.ecdsplus
+Version: 1.0.0
+Section: Tweaks
+Maintainer: MrSnailman <SnailRepo@gmail.com>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.snail.ecdsplus.deb
+Size: 3630
+MD5sum: a4f2295d8499cd362a84b09b7da749fb
+Description: Gives FREE in game purchases for Extreme Car Driving Simulator
+Name: ECDS++
+Author: MrSnailman
+
+Package: com.snail.volocoplus
+Version: 1.0.0
+Section: Tweaks
+Maintainer: MrSnailman <SnailRepo@gmail.com>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.snail.volocoplus.deb
+Size: 3598 
+MD5sum: dff193a86fcbdab81b7333660ef10942
+Description: Gives premium for worldbox
+Name: Voloco++
+Author: MrSnailman
