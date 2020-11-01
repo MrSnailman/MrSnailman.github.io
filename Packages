@@ -10,3 +10,16 @@ MD5sum: 568672ced71ff2662c0c6dd485c04178
 Description: Gives premium for worldbox, Click premium and cancel
 Name: Worldbox++
 Author: MrSnailman
+
+Package: com.snail.soulknightplus
+Version: 1.0.0
+Section: Tweaks
+Maintainer: MrSnailman
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.snail.soulknightplus.deb
+Size: 3586
+MD5sum: fa0e73fr2c7c6f82e2e39cba3b7984bc
+Description: Gives FREE in game purchases for Soul Knight
+Name: SoulKnight++
+Author: MrSnailman
