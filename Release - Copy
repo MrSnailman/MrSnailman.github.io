@@ -1,0 +1,9 @@
+Origin: SnailRepo
+Label: SnailRepo
+Suite: stable
+Author: MrSnailman
+Version: 1.0
+Codename: SnailRepo
+Architecture: iphoneos-arm
+Components: main
+Description: 
