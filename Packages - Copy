@@ -1,0 +1,64 @@
+Package: com.snail.worldboxplus
+Version: 1.0.0
+Section: Tweaks
+Maintainer: MrSnailman <SnailRepo@gmail.com>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.snail.worldboxplus.deb
+Size: 104319
+MD5sum: 568672ced71ff2662c0c6dd485c04178
+Description: Gives premium for worldbox, Click premium and cancel
+Name: Worldbox++
+Author: MrSnailman
+
+Package: com.snail.soulknightplus
+Version: 1.0.0
+Section: Tweaks
+Maintainer: MrSnailman <SnailRepo@gmail.com>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.snail.soulknightplus.deb
+Size: 3586
+MD5sum: fa0e73fe2c7c6f82e2e39cba3b7984bc
+Description: Gives FREE in game purchases for Soul Knight
+Name: SoulKnight++
+Author: MrSnailman
+
+Package: com.snail.hctakedownplus
+Version: 1.0.0
+Section: Tweaks
+Maintainer: MrSnailman <SnailRepo@gmail.com>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.snail.hctakedownplus.deb
+Size: 3638
+MD5sum: 7b283aabf20ff568a9d7c5a7fe9c00a0
+Description: Gives FREE in game purchases for HC Takedown
+Name: HC Takedown++
+Author: MrSnailman
+
+Package: com.snail.ecdsplus
+Version: 1.0.0
+Section: Tweaks
+Maintainer: MrSnailman <SnailRepo@gmail.com>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.snail.ecdsplus.deb
+Size: 3630
+MD5sum: a4f2295d8499cd362a84b09b7da749fb
+Description: Gives FREE in game purchases for Extreme Car Driving Simulator
+Name: ECDS++
+Author: MrSnailman
+
+Package: com.snail.volocoplus
+Version: 1.0.0
+Section: Tweaks
+Maintainer: MrSnailman <SnailRepo@gmail.com>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.snail.volocoplus.deb
+Size: 3598 
+MD5sum: dff193a86fcbdab81b7333660ef10942
+Description: Gives premium for worldbox
+Name: Voloco++
+Author: MrSnailman
