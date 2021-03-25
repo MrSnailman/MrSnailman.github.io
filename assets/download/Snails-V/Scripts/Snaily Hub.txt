@@ -1,1 +1,0 @@
-loadstring(game:HttpGet(('https://raw.githubusercontent.com/MrSnailman/Snaily-Hub/main/Snaily%20Hub'),true))()
