@@ -81,7 +81,7 @@ body{
     list-style-type: none;
 }
 body {
-    background-color: #fefefe;
+    background-color: #191919;
     transition: background-color .5s;
     font-family: monospace; 
 }
