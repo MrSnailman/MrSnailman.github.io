@@ -14,7 +14,7 @@ body{
   width: 0%;
   height: 0%;
   z-index: 9;
-  background-color: rgba(25,25,25,25); /*dim the background*/
+  background-color: rgba(0,0,0,0.5); /*dim the background*/
 }
 .sidenav {
     height: 100%;
@@ -81,7 +81,7 @@ body{
     list-style-type: none;
 }
 body {
-    background-color: #191919;
+    background-color: #fefefe;
     transition: background-color .5s;
     font-family: monospace; 
 }
