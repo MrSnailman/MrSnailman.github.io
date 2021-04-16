@@ -605,4 +605,12 @@ fieldset[disabled] .btn-danger.active {
     background-color: yellow;    
     text-align: right;
 }
+#banner2{
+    position: absolute;
+    left: 400px;
+    width: 200px;
+    height: 100px;
+    background-color: yellow;    
+    text-align: right;
+}
 /*# sourceMappingURL=bootstrap-theme.css.map */
