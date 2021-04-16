@@ -594,7 +594,7 @@ fieldset[disabled] .btn-danger.active {
 #background {
     height: 100px;    
     background-color: blue;
-    color: white;
+    color: grey;
 }
 
 #banner{
