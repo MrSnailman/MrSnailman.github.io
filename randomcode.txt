@@ -1,3 +1,61 @@
+	  <div class="row">
+
+                <div class="col-xs-12 col-lg-6 col-sm-6 col-md-6 col-block">
+                      <div class="block text-center block-first">
+                                 <div class="icon">
+                                    <i class="fa fa-diamond fa-2x"></i>
+                                 </div>  
+                                   <h4>Cost</h4>
+                                   <p class="font-2">free</p>
+                        </div>   
+                </div>
+                <div class="col-xs-12 col-lg-6 col-sm-6 col-md-6 col-block">
+                      <div class="block text-center block-second">
+                             <div class="icon">
+                                  <i class="fa fa-camera fa-2x"></i>
+                             </div>  
+                              <h4>Usage</h4>
+                              <p class="font-2">easy</p>                                       
+                      </div>
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="col-xs-12 col-lg-6 col-sm-6 col-md-6 col-block">
+                    <div class="block text-center block-third">
+                                 <div class="icon">
+                                     <i class="fa fa-eye fa-2x"></i>
+                                 </div>  
+                                   <h4>Looks</h4>
+                                   <p class="font-2">amazing</p>
+                    </div>   
+                </div>
+                <div class="col-xs-12 col-lg-6 col-sm-6 col-md-6 col-block">
+                    <div class="block text-center block-last">
+                            <div class="icon">
+                                 <i class="fa fa-sliders fa-2x"></i>
+                            </div>  
+                            <h4>Settings</h4>
+                            <p class="font-2">none</p>                                        
+                      </div>
+                    </div>
+                </div>
+            </div>
+    </section>
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
 	<div id="content">
     <div id="banner">
         <a href="#"><div id="background">Ad space for sale 5$ per month</div></a>
