@@ -607,7 +607,7 @@ fieldset[disabled] .btn-danger.active {
 }
 #banner2{
     position: absolute;
-    right: -200px;
+    right: 200px;
     width: 200px;
     height: 100px;
     background-color: yellow;    
