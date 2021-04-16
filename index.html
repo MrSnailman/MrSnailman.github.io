@@ -69,10 +69,14 @@ div.a {
   padding: 10px; 
   width: 200px;
   height: 100px;
-  display: table;
-  margin-right: auto;
-  margin-left: auto;
-} 
+}
+.center {
+  position: absolute;
+  top: 50%;
+  width: 100%;
+  text-align: center;
+  font-size: 18px;
+}
 </style>
 <body>
 <!-- div used to make the body blur -->
@@ -187,6 +191,7 @@ div.a {
 	    
 <div>
 <div class="a">This div element has position: relative;
+<div class="center">Centered</div>
 </div>
 	   
 <!-- First part -->
